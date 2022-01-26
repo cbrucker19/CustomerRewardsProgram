@@ -1,3 +1,8 @@
+/**
+ * @author Cyrus Brucker - cbrucker1
+ * CIS175 - Fourth Semester
+ * January 26th, 2022
+ */
 import static org.junit.Assert.*;
 
 import org.junit.Before;

@@ -1,3 +1,8 @@
+/**
+ * @author Cyrus Brucker - cbrucker1
+ * CIS175 - Fourth Semester
+ * January 26th, 2022
+ */
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;

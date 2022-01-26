@@ -1,3 +1,8 @@
+/**
+ * @author Cyrus Brucker - cbrucker1
+ * CIS175 - Fourth Semester
+ * January 26th, 2022
+ */
 package model;
 
 public class CustBusinessLogic {
